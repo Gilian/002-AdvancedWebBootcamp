@@ -2,7 +2,7 @@ function callback() {
     console.log("Ring Ring");
 }
 
-// My Solution
+// My Solutions
 var countdownInMs = 5;
 var timeOutID = setInterval(function() {
     if (countdownInMs > 0) {
