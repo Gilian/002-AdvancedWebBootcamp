@@ -1,4 +1,8 @@
-// A promises is a object-task which will be executed later
+/*
+    A promises is a object-task which will be executed later
+    "Essentially, a promise is a returned object to which you attach callbacks,
+    instead of passing callbacks into a function." - MDN
+*/
 
 // Successful promise
 var p1 = new Promise(function(resolve, reject) {
