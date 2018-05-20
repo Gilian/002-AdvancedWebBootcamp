@@ -3,7 +3,7 @@ This repository is meant for me to track my progress on the 'advanced web develo
 
 [Finde the Course here](https://www.udemy.com/the-advanced-web-developer-bootcamp/)
 
-[Find the associated codepen here](https://codepen.io/collection/Xevpvd/)
+[Find the associated codepen here](https://codepen.io/collection/Xevpvd/) 
 
 ## Table of Contents
 1. Introduction
